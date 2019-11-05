@@ -9,7 +9,7 @@ E' possibile aggiornare il firmware tramite OTA sfruttando l'app EVE.
 
 Se volete utilizzare il firmware contattatemi.
 
-
+<image> <image/>
 
 
 English: 
