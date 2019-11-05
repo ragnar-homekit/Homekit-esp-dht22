@@ -7,5 +7,17 @@ chiedendo a Siri.
 
 E' possibile aggiornare il firmware tramite OTA sfruttando l'app EVE.
 
-
 Se volete utilizzare il firmware contattatemi.
+
+
+
+
+English: 
+
+Firmware for wemos d1 mini (ESP8266) and sensor dht22.
+
+The firmware takes advantage of Apple homekit and allows you to view the temperature and humidity directly in the iPhone, iPad, Mac Home app or by asking Siri.
+
+It is possible to update the firmware via OTA using the EVE app.
+
+If you want to use the firmware contact me.
