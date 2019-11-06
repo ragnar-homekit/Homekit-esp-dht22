@@ -9,6 +9,7 @@ E' possibile aggiornare il firmware tramite OTA sfruttando l'app EVE.
 
 Se volete utilizzare il firmware contattatemi.
 
+<img src="https://user-images.githubusercontent.com/7750267/68319111-138cc400-00be-11ea-8edc-804c6109f5f1.png" width="150"> <img src="https://user-images.githubusercontent.com/7750267/68319262-53ec4200-00be-11ea-8022-bfc96f08efe9.png" width="150" > <img src="https://user-images.githubusercontent.com/7750267/68319322-70887a00-00be-11ea-80e8-7444d162b8aa.png" width="150" > <img src="https://user-images.githubusercontent.com/7750267/68319405-931a9300-00be-11ea-92a4-73edb3b99423.png" width="150" > <img src="https://user-images.githubusercontent.com/7750267/68319494-b3e2e880-00be-11ea-8c10-047b14a8f4fb.png" width="150" > <img src="https://user-images.githubusercontent.com/7750267/68320143-b560e080-00bf-11ea-873c-ca91f3e10f54.png" width="150" >
 
 <h2>English: </h2>
 
