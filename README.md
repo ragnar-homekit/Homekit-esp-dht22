@@ -10,7 +10,7 @@ E' possibile aggiornare il firmware tramite OTA sfruttando l'app EVE.
 Se volete utilizzare il firmware contattatemi.
 
 
-<h2>English: 
+<h2>English: </h2>
 
 Firmware for wemos d1 mini (ESP8266) and sensor dht22.
 
